@@ -1,4 +1,4 @@
-# prerender-demo
+# vue prerender
 
 ## Project setup
 ```
